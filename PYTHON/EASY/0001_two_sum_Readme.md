@@ -18,7 +18,7 @@ Output: `[0, 1]`
 **Code**:
 ```python
 
-BruteForce -  https://github.com/tapand3v3lop3r/My-Leetcode-Journey/blob/main/PYTHON/EASY/0001_two_sum_Bruteforce.py
-Optimised -  https://github.com/tapand3v3lop3r/My-Leetcode-Journey/blob/main/PYTHON/EASY/0001_two_sum_Optimised.py
+BruteForce -  (https://github.com/tapand3v3lop3r/My-Leetcode-Journey/blob/main/PYTHON/EASY/0001_two_sum_Bruteforce.py)
+Optimised -  (https://github.com/tapand3v3lop3r/My-Leetcode-Journey/blob/main/PYTHON/EASY/0001_two_sum_Optimised.py)
 
 ```
