@@ -18,8 +18,4 @@ target = 9
 sol = Solution()
 print(sol.twoSum(nums, target)) 
 
-'''
-Time Complexity - O(n)
-Space Complexity - O(1)
-'''
 
