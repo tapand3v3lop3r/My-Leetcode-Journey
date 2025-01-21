@@ -14,16 +14,12 @@ The repository is structured to make navigation easy and straightforward:
 │   ├── Easy
 │   ├── Medium
 │   ├── Hard
-│
-├── 📂 C++
-│   ├── Easy
-│   ├── Medium
-│   ├── Hard
-│
+|
 ├── 📂 Java
 │   ├── Easy
 │   ├── Medium
 │   ├── Hard
+|
 | _______END
 
 
