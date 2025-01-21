@@ -14,7 +14,4 @@ target = 9
 sol = Solution()
 print(sol.twoSum(nums, target)) 
 
-'''
-Time Complexity = O(n^2)
-Space Complexity = O(1)
-'''
+
